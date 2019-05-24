@@ -11,6 +11,7 @@ const DropdownExercise = () => {
       <h2 style={{marginTop: 50}}>Second Implementation</h2>
       <Dropdown>
         <Dropdown.Item>One</Dropdown.Item>
+        <Dropdown.Item>Two</Dropdown.Item>
       </Dropdown>
     </div>
   );
